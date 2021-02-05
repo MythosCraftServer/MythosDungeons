@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 69901
+            },
+            "model": "item/weapons/great_hammer0"
+        }
+    ]
+}

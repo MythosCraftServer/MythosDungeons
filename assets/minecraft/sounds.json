@@ -1,0 +1,10 @@
+{
+	"custom.diamond_sword.item_sword_cut": {
+				"sounds": [
+						"custom/diamond_sword/item_sword_cut0",
+						"custom/diamond_sword/item_sword_cut1",
+						"custom/diamond_sword/item_sword_cut2",
+						"custom/diamond_sword/item_sword_cut3"
+				]
+	}
+}

@@ -1,0 +1,15 @@
+Sickles
+Mace
+Dagger
+Cutlass
+Axe
+Broadsword
+Sword
+Spear
+Pickaxe
+Katana
+Glaive
+Claymore
+##Great Hammer
+Hauntless
+Double Axe

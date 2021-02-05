@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 801
+            },
+            "model": "item/weapons/sword_of_justice"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 802
+            },
+            "model": "item/weapons/thrysus"
+        }
+    ]
+}

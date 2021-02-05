@@ -1,0 +1,40 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/enchantment_rune.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE999"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/locked.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE998"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/fire_aspect.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/sharpness.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": ["\uE021"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/smiting.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": ["\uE023"]
+        }
+    ]
+}
