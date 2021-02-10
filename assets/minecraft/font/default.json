@@ -17,23 +17,37 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:lang/enchantments/anima_conduit.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lang/enchantments/busy_bee.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:lang/enchantments/fire_aspect.png",
-            "ascent": 11,
-            "height": 16,
+            "ascent": 10,
+            "height": 14,
             "chars": ["\uE010"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:lang/enchantments/sharpness.png",
-            "ascent": 11,
-            "height": 16,
+            "ascent": 10,
+            "height": 14,
             "chars": ["\uE021"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:lang/enchantments/smiting.png",
-            "ascent": 11,
-            "height": 16,
+            "ascent": 10,
+            "height": 14,
             "chars": ["\uE023"]
         }
     ]
