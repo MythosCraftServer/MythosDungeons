@@ -1,0 +1,9 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+    	"particle": "block/oak_leaves",
+        "all": "block/oak_leaves",
+        "falling": "block/oak_leaves_falling",
+        "bushy": "block/oak_leaves_bushy"
+    }
+}

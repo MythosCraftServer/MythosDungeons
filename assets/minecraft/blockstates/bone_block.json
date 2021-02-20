@@ -1,0 +1,65 @@
+{
+  "variants": {
+    "axis=x": [{
+      "model": "minecraft:block/bone_block",
+      "x": 90,
+      "y": 90,
+      "weight": 20
+    },
+    {
+      "model": "minecraft:block/bone_block1",
+      "x": 90,
+      "y": 90,
+      "weight": 4
+    },
+    {
+      "model": "minecraft:block/bone_block2",
+      "x": 90,
+      "y": 90,
+      "weight": 2
+    },
+    {
+      "model": "minecraft:block/bone_block3",
+      "x": 90,
+      "y": 90,
+      "weight": 3
+    }],
+    "axis=y": [{
+      "model": "minecraft:block/bone_block",
+      "weight": 20
+    },
+    {
+      "model": "minecraft:block/bone_block1",
+      "weight": 3
+    },
+    {
+      "model": "minecraft:block/bone_block2",
+      
+      "weight": 1
+    },
+    {
+      "model": "minecraft:block/bone_block3",
+      "weight": 2
+    }],
+    "axis=z": [{
+      "model": "minecraft:block/bone_block",
+      "x": 90,
+      "weight":20
+    },
+    {
+      "model": "minecraft:block/bone_block1",
+      "x": 90,
+      "weight":3
+    },
+    {
+      "model": "minecraft:block/bone_block2",
+      "x": 90,
+      "weight":1
+    },
+    {
+      "model": "minecraft:block/bone_block3",
+      "x": 90,
+      "weight":2
+    }]
+  }
+}

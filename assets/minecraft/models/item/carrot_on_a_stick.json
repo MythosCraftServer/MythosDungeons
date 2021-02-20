@@ -9,6 +9,12 @@
                 "custom_model_data": 39901
             },
             "model": "item/weapons/gauntlets0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 999999
+            },
+            "model": "minecraft:item/nether_star"
         }
     ]
 }
